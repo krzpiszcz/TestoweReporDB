@@ -97,5 +97,6 @@
     <Build Include="dbo\Stored Procedures\P_FactStrategyPlan.sql" />
     <Build Include="dbo\Stored Procedures\P_FactSalesQuota.sql" />
     <Build Include="dbo\Views\V_ViewFactSales_R1.sql" />
+    <Build Include="dbo\Views\V_ViewFactSales_R2.sql" />
   </ItemGroup>
 </Project>
