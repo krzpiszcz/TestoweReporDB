@@ -76,5 +76,6 @@
     <Build Include="dbo\Stored Procedures\sp_PrepareSCD.sql" />
     <Build Include="dbo\Stored Procedures\sp_SCD.sql" />
     <Build Include="dbo\Tables\Marketing.sql" />
+    <Build Include="dbo\Tables\Magazyn.sql" />
   </ItemGroup>
 </Project>
