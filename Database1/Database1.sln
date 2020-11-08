@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.645
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database1", "Database1\Database1.sqlproj", "{6958BEE4-CC9D-4059-8913-71E8FB9CEE76}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database2", "Database2\Database2.sqlproj", "{9F0F5FCE-E785-4989-96CB-4DFBC2989042}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,12 @@ Global
 		{6958BEE4-CC9D-4059-8913-71E8FB9CEE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6958BEE4-CC9D-4059-8913-71E8FB9CEE76}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6958BEE4-CC9D-4059-8913-71E8FB9CEE76}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9F0F5FCE-E785-4989-96CB-4DFBC2989042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0F5FCE-E785-4989-96CB-4DFBC2989042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0F5FCE-E785-4989-96CB-4DFBC2989042}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9F0F5FCE-E785-4989-96CB-4DFBC2989042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0F5FCE-E785-4989-96CB-4DFBC2989042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0F5FCE-E785-4989-96CB-4DFBC2989042}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
